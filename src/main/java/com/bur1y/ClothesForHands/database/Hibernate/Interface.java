@@ -1,7 +1,7 @@
-package com.bur1y.best.fuckingdemo.database.Hibernate;
+package com.bur1y.ClothesForHands.database.Hibernate;
 
-import com.bur1y.best.fuckingdemo.database.table.Material;
-import com.bur1y.best.fuckingdemo.database.table.MaterialType;
+import com.bur1y.ClothesForHands.database.table.Material;
+import com.bur1y.ClothesForHands.database.table.MaterialType;
 import org.hibernate.Session;
 
 import java.util.List;

@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 
-<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.bur1y.best.fuckingdemo.Controllers.EditModal">
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.bur1y.ClothesForHands.Controllers.CreateModal">
    <children>
       <HBox alignment="CENTER" maxWidth="1.7976931348623157E308">
          <children>
@@ -67,12 +67,7 @@
       </TextArea>
       <HBox>
          <children>
-            <Button mnemonicParsing="false" onAction="#saveEdit" style="-fx-background-color: white; -fx-border-color: black;" text="Изменить">
-               <HBox.margin>
-                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-               </HBox.margin>
-            </Button>
-            <Button mnemonicParsing="false" onAction="#delete" style="-fx-background-color: white; -fx-border-color: black;" text="Удалить">
+            <Button mnemonicParsing="false" onAction="#save" style="-fx-background-color: white; -fx-border-color: black;" text="Сохранить">
                <HBox.margin>
                   <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                </HBox.margin>

@@ -1,8 +1,8 @@
-package com.bur1y.best.fuckingdemo.Controllers;
+package com.bur1y.ClothesForHands.Controllers;
 
-import com.bur1y.best.fuckingdemo.database.Hibernate.Interface;
-import com.bur1y.best.fuckingdemo.database.table.Material;
-import com.bur1y.best.fuckingdemo.database.table.MaterialType;
+import com.bur1y.ClothesForHands.database.Hibernate.Interface;
+import com.bur1y.ClothesForHands.database.table.Material;
+import com.bur1y.ClothesForHands.database.table.MaterialType;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;

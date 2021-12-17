@@ -11,8 +11,8 @@
 
         <property name="hibernate.hbm2ddl.auto">update</property>
 
-        <mapping class="com.bur1y.best.fuckingdemo.database.table.Material"/>
-        <mapping class="com.bur1y.best.fuckingdemo.database.table.MaterialType"/>
+        <mapping class="com.bur1y.ClothesForHands.database.table.Material"/>
+        <mapping class="com.bur1y.ClothesForHands.database.table.MaterialType"/>
 
     </session-factory>
 </hibernate-configuration>

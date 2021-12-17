@@ -1,4 +1,4 @@
-package com.bur1y.best.fuckingdemo.database.Hibernate;
+package com.bur1y.ClothesForHands.database.Hibernate;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;

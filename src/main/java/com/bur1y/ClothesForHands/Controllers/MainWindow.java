@@ -1,9 +1,9 @@
-package com.bur1y.best.fuckingdemo.Controllers;
+package com.bur1y.ClothesForHands.Controllers;
 
-import com.bur1y.best.fuckingdemo.Alerts;
-import com.bur1y.best.fuckingdemo.JavaFX;
-import com.bur1y.best.fuckingdemo.database.Hibernate.Interface;
-import com.bur1y.best.fuckingdemo.database.table.Material;
+import com.bur1y.ClothesForHands.JavaFX;
+import com.bur1y.ClothesForHands.database.Hibernate.Interface;
+import com.bur1y.ClothesForHands.database.table.Material;
+import com.bur1y.ClothesForHands.Alerts;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
@@ -14,7 +14,6 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.image.Image;
-import javafx.scene.layout.VBox;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 

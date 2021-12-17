@@ -1,4 +1,4 @@
-package com.bur1y.best.fuckingdemo;
+package com.bur1y.ClothesForHands;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

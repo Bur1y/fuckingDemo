@@ -1,4 +1,4 @@
-package com.bur1y.best.fuckingdemo.database.table;
+package com.bur1y.ClothesForHands.database.table;
 
 import javax.persistence.*;
 

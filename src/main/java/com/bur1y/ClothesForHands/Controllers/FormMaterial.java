@@ -1,7 +1,7 @@
-package com.bur1y.best.fuckingdemo.Controllers;
+package com.bur1y.ClothesForHands.Controllers;
 
-import com.bur1y.best.fuckingdemo.JavaFX;
-import com.bur1y.best.fuckingdemo.database.table.Material;
+import com.bur1y.ClothesForHands.JavaFX;
+import com.bur1y.ClothesForHands.database.table.Material;
 import javafx.geometry.Insets;
 import javafx.geometry.Orientation;
 import javafx.scene.Node;
