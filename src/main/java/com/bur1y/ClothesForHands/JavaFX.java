@@ -18,7 +18,7 @@ public class JavaFX extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(JavaFX.class.getResource("main.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 600, 400);
         stage.getIcons().add(new Image(JavaFX.class.getResourceAsStream("icon.png")));
-        stage.setTitle("Fucking Demo Ex");
+        stage.setTitle("Clothse For Hands");
         stage.setScene(scene);
         stage.show();
     }
