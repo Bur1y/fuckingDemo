@@ -88,3 +88,5 @@
         </plugins>
     </build>
 </project>
+
+Unable to make field private java.lang.Integer com.example.end.Db.MyTable.id accessible: module com.example.end does not "opens com.example.end.Db" to module org.hibernate.orm.core
